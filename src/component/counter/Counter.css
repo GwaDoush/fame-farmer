@@ -1,0 +1,21 @@
+.counter {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    z-index: 1;
+}
+
+.counter p {
+    margin: 0;
+    color: white;
+    font-size: 2em;
+    font-family: fat, sans-serif;
+}
+
+.counter #f_per_second {
+    margin: 0;
+    color: white;
+    font-size: 1em;
+    font-family: fat, sans-serif;
+}

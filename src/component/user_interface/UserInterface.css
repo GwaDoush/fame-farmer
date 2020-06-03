@@ -1,0 +1,9 @@
+.user_interface {
+    height: 100%;
+    width: 100%;
+
+    flex-direction: column;
+    display: flex;
+
+    padding: 1em;
+}
