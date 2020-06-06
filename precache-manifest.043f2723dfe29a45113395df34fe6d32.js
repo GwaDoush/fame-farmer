@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5ce5afc9955367660d4e532594f1b3c",
+    "revision": "4b9e67b5047cc4d0d8d97144d435ce79",
     "url": "/fame-farmer/index.html"
   },
   {
-    "revision": "8deee1b1a65c1f21f678",
-    "url": "/fame-farmer/static/css/main.541d5fe8.chunk.css"
+    "revision": "a0854a2540cba396fd2f",
+    "url": "/fame-farmer/static/css/main.96c79193.chunk.css"
   },
   {
     "revision": "919f1b9c75aa0ff9766f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fame-farmer/static/js/2.b9f9919c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8deee1b1a65c1f21f678",
-    "url": "/fame-farmer/static/js/main.32c1b0a2.chunk.js"
+    "revision": "a0854a2540cba396fd2f",
+    "url": "/fame-farmer/static/js/main.c1856850.chunk.js"
   },
   {
     "revision": "ee962770da91afab386f",
