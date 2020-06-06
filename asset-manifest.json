@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fame-farmer/static/css/main.fba17795.chunk.css",
-    "main.js": "/fame-farmer/static/js/main.0d5787b1.chunk.js",
-    "main.js.map": "/fame-farmer/static/js/main.0d5787b1.chunk.js.map",
+    "main.js": "/fame-farmer/static/js/main.b26a14f7.chunk.js",
+    "main.js.map": "/fame-farmer/static/js/main.b26a14f7.chunk.js.map",
     "runtime-main.js": "/fame-farmer/static/js/runtime-main.cc5ecba3.js",
     "runtime-main.js.map": "/fame-farmer/static/js/runtime-main.cc5ecba3.js.map",
     "static/js/2.b9f9919c.chunk.js": "/fame-farmer/static/js/2.b9f9919c.chunk.js",
     "static/js/2.b9f9919c.chunk.js.map": "/fame-farmer/static/js/2.b9f9919c.chunk.js.map",
     "index.html": "/fame-farmer/index.html",
-    "precache-manifest.bdb15195ed2e53fe29003f0d0ea3ded3.js": "/fame-farmer/precache-manifest.bdb15195ed2e53fe29003f0d0ea3ded3.js",
+    "precache-manifest.82e573c4b52428e8ceaf947e9e9d5fb9.js": "/fame-farmer/precache-manifest.82e573c4b52428e8ceaf947e9e9d5fb9.js",
     "service-worker.js": "/fame-farmer/service-worker.js",
     "static/css/main.fba17795.chunk.css.map": "/fame-farmer/static/css/main.fba17795.chunk.css.map",
     "static/js/2.b9f9919c.chunk.js.LICENSE.txt": "/fame-farmer/static/js/2.b9f9919c.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.cc5ecba3.js",
     "static/js/2.b9f9919c.chunk.js",
     "static/css/main.fba17795.chunk.css",
-    "static/js/main.0d5787b1.chunk.js"
+    "static/js/main.b26a14f7.chunk.js"
   ]
 }
