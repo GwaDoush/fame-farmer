@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fame-farmer/static/css/main.fba17795.chunk.css",
-    "main.js": "/fame-farmer/static/js/main.b26a14f7.chunk.js",
-    "main.js.map": "/fame-farmer/static/js/main.b26a14f7.chunk.js.map",
+    "main.css": "/fame-farmer/static/css/main.6832038b.chunk.css",
+    "main.js": "/fame-farmer/static/js/main.aa258d94.chunk.js",
+    "main.js.map": "/fame-farmer/static/js/main.aa258d94.chunk.js.map",
     "runtime-main.js": "/fame-farmer/static/js/runtime-main.cc5ecba3.js",
     "runtime-main.js.map": "/fame-farmer/static/js/runtime-main.cc5ecba3.js.map",
     "static/js/2.b9f9919c.chunk.js": "/fame-farmer/static/js/2.b9f9919c.chunk.js",
     "static/js/2.b9f9919c.chunk.js.map": "/fame-farmer/static/js/2.b9f9919c.chunk.js.map",
     "index.html": "/fame-farmer/index.html",
-    "precache-manifest.82e573c4b52428e8ceaf947e9e9d5fb9.js": "/fame-farmer/precache-manifest.82e573c4b52428e8ceaf947e9e9d5fb9.js",
+    "precache-manifest.7da651cd4d7ec86ec5eda44f8a9fdad6.js": "/fame-farmer/precache-manifest.7da651cd4d7ec86ec5eda44f8a9fdad6.js",
     "service-worker.js": "/fame-farmer/service-worker.js",
-    "static/css/main.fba17795.chunk.css.map": "/fame-farmer/static/css/main.fba17795.chunk.css.map",
+    "static/css/main.6832038b.chunk.css.map": "/fame-farmer/static/css/main.6832038b.chunk.css.map",
     "static/js/2.b9f9919c.chunk.js.LICENSE.txt": "/fame-farmer/static/js/2.b9f9919c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fame-farmer/static/media/LeagueGothic-Regular.cad4b359.otf",
     "static/media/VideoPlayer.css": "/fame-farmer/static/media/bg_player.92adb936.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.cc5ecba3.js",
     "static/js/2.b9f9919c.chunk.js",
-    "static/css/main.fba17795.chunk.css",
-    "static/js/main.b26a14f7.chunk.js"
+    "static/css/main.6832038b.chunk.css",
+    "static/js/main.aa258d94.chunk.js"
   ]
 }
