@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fame-farmer/precache-manifest.7da651cd4d7ec86ec5eda44f8a9fdad6.js"
+  "/fame-farmer/precache-manifest.b84a4aceaa805e9c59968390a46b5a41.js"
 );
 
 self.addEventListener('message', (event) => {
